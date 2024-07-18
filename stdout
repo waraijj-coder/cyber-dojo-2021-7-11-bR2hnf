@@ -1,0 +1,15 @@
+compiling diamondTest.cpp
+compiling AllTests.cpp
+compiling diamond.c
+Building archive lib/libuntitled.a
+a - objs/diamond.o
+Linking untitled_tests
+Running untitled_tests
+Not a valid letter, quitting program.
+Not a valid letter, quitting program.
+Not a valid letter, quitting program.
+Not a valid letter, quitting program.
+Not a valid letter, quitting program.
+..
+OK (2 tests, 2 ran, 10 checks, 0 ignored, 0 filtered out, 0 ms)
+
